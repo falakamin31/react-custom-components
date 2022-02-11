@@ -1,2 +1,2 @@
-# react-custom-components
+# React-custom-components
 These awesome custom components can save our time.
